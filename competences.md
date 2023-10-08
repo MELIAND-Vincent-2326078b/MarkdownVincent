@@ -1,13 +1,11 @@
 # Compétences==
 [<- Retour à la page principale](https://github.com/MELIAND-Vincent-2326078b/MarkdownVincent/blob/main/README.md)
 ### Il a une chevelure rousse très soyeuse !
-<img src="https://github.com/MELIAND-Vincent-2326078b/MarkdownVincent/blob/main/roux.jpeg" style="width:200px;height:200px;">
+<img src="https://github.com/MELIAND-Vincent-2326078b/MarkdownVincent/blob/main/roux.jpeg" style="width:600px;height:200px;">
 Il fait donc parti des 1,5% de la population avec des cheveux roux.
-</span>
-<div style="margin-bottom:20px;padding-left: 50px;padding-bottom: 30px;padding-top: 0px;background-color: #C8F2FF;float:right;width:70%;border-radius:15px">
-<div style="padding:50px;padding-top:-70px;padding-left:50px;padding-bottom:40px;">
-<center style="border-bottom: 1px solid black;margin-bottom: 20px;">'''Il peut battre un gorille à mains nus'''</center>
-[[Fichier:Gorille.png|gauche|sans_cadre|264x264px]]
+
+### Il peut battre un gorille à mains nus !
+<img src="https://github.com/MELIAND-Vincent-2326078b/MarkdownVincent/blob/main/gorille.gif" style="width:600px;height:200px;">
 Sans rigoler.
 
 Il pratique la MMA depuis maintenant 6 ans, de la boxe en parallèle depuis 7 ans, ainsi que la musculation depuis 4 ans, 1m87 pour 86 kg. Il pourrai.
