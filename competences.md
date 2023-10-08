@@ -1,9 +1,8 @@
 # Compétences==
 [<- Retour à la page principale](https://github.com/MELIAND-Vincent-2326078b/MarkdownVincent/blob/main/README.md)
-<center>Il a une chevelure rousse très soyeuse</center>
+### Il a une chevelure rousse très soyeuse !
 <img src="https://github.com/MELIAND-Vincent-2326078b/MarkdownVincent/blob/main/roux.jpeg" style="width:200px;height:200px;">
-<div style="margin-top: 50px">Il fait donc parti des 1,5% de la population avec des cheveux roux.</div>
-</div>
+Il fait donc parti des 1,5% de la population avec des cheveux roux.
 </span>
 <div style="margin-bottom:20px;padding-left: 50px;padding-bottom: 30px;padding-top: 0px;background-color: #C8F2FF;float:right;width:70%;border-radius:15px">
 <div style="padding:50px;padding-top:-70px;padding-left:50px;padding-bottom:40px;">
