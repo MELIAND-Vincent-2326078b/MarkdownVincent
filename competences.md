@@ -1,12 +1,12 @@
 # Compétences==
 [<- Retour à la page principale](https://github.com/MELIAND-Vincent-2326078b/MarkdownVincent/blob/main/README.md)
-<div style="border:solid 10px;margin-top:20px;margin-bottom:20px;padding-right: 50px;padding-bottom: 30px;padding-top: 0px;background-color: red;float:left;width:70%;border-radius:15px">
+<span style="border:solid 10px;margin-top:20px;margin-bottom:20px;padding-right: 50px;padding-bottom: 30px;padding-top: 0px;background-color: red;float:left;width:70%;border-radius:15px">
 <div style="padding:50px;padding-top:-70px;padding-left:50px;padding-bottom:40px;">
 <center style="border-bottom: 1px solid black;margin-bottom: 20px;">'''Il a une chevelure rousse très soyeuse'''</center>
 <img src="https://github.com/MELIAND-Vincent-2326078b/MarkdownVincent/blob/main/roux.jpeg" style="width:200px;height:200px;">
 <div style="margin-top: 50px">Il fait donc parti des 1,5% de la population avec des cheveux roux.</div>
 </div>
-</div>
+</span>
 <div style="margin-bottom:20px;padding-left: 50px;padding-bottom: 30px;padding-top: 0px;background-color: #C8F2FF;float:right;width:70%;border-radius:15px">
 <div style="padding:50px;padding-top:-70px;padding-left:50px;padding-bottom:40px;">
 <center style="border-bottom: 1px solid black;margin-bottom: 20px;">'''Il peut battre un gorille à mains nus'''</center>
