@@ -1,8 +1,8 @@
 # Bienvenue sur le Wiki Les fans de Maxime !
 
-Il s'agit de la page principale des fans de Maxime, mon voisin de classe trop croustiBG !
+**Il s'agit de la page principale des fans de Maxime, mon voisin de classe trop croustiBG !**
 
-Vous pouvez retrouver la page des compétences [ici](lien_vers_la_page_des_competences).
+## Vous pouvez retrouver la page des compétences [ici](https://github.com/MELIAND-Vincent-2326078b/MarkdownVincent/blob/main/competences.md).
 
 ## Etre un wati big fan de Maxime
 
