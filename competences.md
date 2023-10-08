@@ -11,4 +11,5 @@ Il pratique la MMA depuis maintenant 6 ans, de la boxe en parallèle depuis 7 an
 Il a une vitesse de fou, et des réflexes identiques à sa vitesse. Il a juste à l'attendre qu'il le charge, l'esquiver et lui donner des bonnes patates dans la tête. Il le lâchera pas, à la moindre erreur, le gorille est fini. Il y auras toujours des gens ici pour penser que c'est impossible. Rien n'est impossible avec de la volonté déjà les amis, et de 2) c'est pas avec votre mentalité de lâche que vous allez faire quoi que ce soit</div>
 
 ### Il possède 44 000 trophées sur Brawl stars, les chiffres parlent pour moi
-<img src="https://github.com/MELIAND-Vincent-2326078b/MarkdownVincent/blob/main/brawl.png" style="width:400px;height:200px;">
+<img src="https://github.com/MELIAND-Vincent-2326078b/MarkdownVincent/blob/main/brawl.png" style="width:300px;height:200px;">
+Ma sincère réaction face à cette information : <img src="https://github.com/MELIAND-Vincent-2326078b/MarkdownVincent/blob/main/ronaldo.gif" style="width:100px;height:80px;">
