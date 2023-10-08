@@ -1,4 +1,4 @@
-# Compétences==
+# Compétences
 [<- Retour à la page principale](https://github.com/MELIAND-Vincent-2326078b/MarkdownVincent/blob/main/README.md)
 ### Il a une chevelure rousse très soyeuse !
 <img src="https://github.com/MELIAND-Vincent-2326078b/MarkdownVincent/blob/main/roux.jpeg" style="width:300px;height:150px;">
